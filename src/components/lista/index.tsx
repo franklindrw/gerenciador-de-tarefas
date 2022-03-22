@@ -1,5 +1,5 @@
 import React from "react";
-import "./style.scss";
+import style from "./lista.module.scss";
 
 export default function Lista() {
     const tarefas = [
@@ -22,7 +22,7 @@ export default function Lista() {
     ];
 
     return (
-        <aside className="listaTarefas">
+        <aside className={style.listaTarefas}>
             <h2> Tarefas do dia </h2>
             <ul>
                 {tarefas.map((tarefas, index) => (
