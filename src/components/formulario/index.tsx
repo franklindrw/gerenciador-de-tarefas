@@ -30,7 +30,7 @@ export class Formulario extends React.Component {
                     />
                 </div>
 
-                <Button />
+                <Button texto="Adicionar" />
             </form>
         );
     }
