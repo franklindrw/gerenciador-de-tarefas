@@ -13,6 +13,19 @@
 
 <br /><br />
 
+## 🧭 Índice
+* [Sobre o Projeto](#-sobre-o-projeto)
+  * [UseStade e Props](#usestade-e-props)
+  * [Linguagens Usadas](#-construido-com)
+* [Instalação](#-instalação)
+  * [Requisitos](#requisitos)
+  * [Instalar a aplicação Web](#instalar-a-aplicação-web)
+* [Como usar](%EF%B8%8F-como-usar)
+* [Autor](#-autor)
+* [Licença](#-licença)
+
+<br /><br />
+
 ## 🔎 Sobre o Projeto
 
 plataforma de Gerenciamento de Tarefas onde você pode fazer sua lista de tarefas do dia e ter auxilio de um cronometro para controlar o tempo de cada atividade.
@@ -46,7 +59,7 @@ Tudo isso de forma dinamica sem que o Javascript precise recarregar a página j�
 
 <br /><br />
 
-### 🔨 Construindo com
+### 🔨 Construido com
 <div id="statusProject" align="left">
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
