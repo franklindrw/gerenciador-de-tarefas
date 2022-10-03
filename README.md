@@ -13,6 +13,15 @@
 
 <br /><br />
 
+| :placard: Vitrine.Dev | https://cursos.alura.com.br/vitrinedev/franklindrw |
+| -------------  | --- |
+| :sparkles: Nome        |  Gerenciador de Tarefas
+| :label: Tecnologias | React, Typescript
+| :rocket: URL         | http://gerenciador-de-tarefas-chi.vercel.app
+| :fire: Desafio     | Criar uma página para marcar lista de tarefas e controlar por um cronometro
+
+<br /><br />
+
 ## 🧭 Índice
 * [Sobre o Projeto](#-sobre-o-projeto)
   * [UseStade e Props](#usestade-e-props)
@@ -52,7 +61,7 @@ Tudo isso de forma dinamica sem que o Javascript precise recarregar a página j�
 
 <br />
 <div align="center" width="600px">
-<img src="https://user-images.githubusercontent.com/81038899/159991101-ed41fd06-0312-4c28-aafa-399c03a7df33.gif" />
+<img src="https://user-images.githubusercontent.com/81038899/159991101-ed41fd06-0312-4c28-aafa-399c03a7df33.gif#vitrinedev" />
 </div>
 <br />
 
